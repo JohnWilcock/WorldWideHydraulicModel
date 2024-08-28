@@ -33,6 +33,5 @@ def getHeights(p1,p2,DTM):
     return p1dtm, p2dtm
 
 
-#getHeights("C:\Temp\W\out\p1.shp", "C:\Temp\W\out\p2.shp", r"C:\Users\johnwilcock\OneDrive - JBA Group\Documents\WWM\ArcPy\Hydrosheds\DTM\EUR.tif")
 
 
