@@ -123,5 +123,5 @@ def getAMAX(AMAX_folder, disolved_catchment_UTM):
 
     return AMAX_List
 
-#a = getAMAX(r"C:\Users\johnwilcock\OneDrive - JBA Group\Documents\WWM\gdal\AMAX\1dAMAX", r"C:\Temp\W\out\UTM_full_catchment_disolved_buffer_12500.shp")
+
 z=1
