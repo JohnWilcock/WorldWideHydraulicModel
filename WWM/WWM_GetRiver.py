@@ -248,5 +248,4 @@ def getRiver(fullRiverDataset, wDir, catchment, first_catchment_fn, is_us_catchm
 #6 length
 
 #START RIVER ID NOT USED HERE
-#a,b,c,d,e, f = getRiver( r"C:\Users\johnwilcock\OneDrive - JBA Group\Documents\WWM\ArcPy\Hydrosheds\Rivers\eu_riv_15s.shp", r"C:\Temp\W\out", r"C:\Temp\W\out\full_catchment_disolved.shp")
 #z=1
