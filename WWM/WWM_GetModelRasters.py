@@ -45,5 +45,3 @@ def clipRasters(inputRasterList,wDir,first_catchment_fn, out_srid):
 
     return outfnsASCII
 
-#a = clipRasters([r"C:\Users\johnwilcock\OneDrive - JBA Group\Documents\WWM\ArcPy\Hydrosheds\DTM\EUR.tif", r"C:\Users\johnwilcock\OneDrive - JBA Group\Documents\WWM\ArcPy\Hydrosheds\LandCover\GLOBCOVER_L4_200901_200912_V2.3.tif" ],r"C:\Temp\W\out", r"C:\Temp\W\out\UTM_first_catchment.shp")
-#z=1
